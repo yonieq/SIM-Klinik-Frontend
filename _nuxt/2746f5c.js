@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[213],{1123:function(n,t,e){"use strict";e.r(t);var o={mounted:function(){this.$router.push("/keuangan/dashboard")}},r=e(10),component=Object(r.a)(o,(function(){var n=this.$createElement;return(this._self._c||n)("div")}),[],!1,null,"66f56fa5",null);t.default=component.exports}}]);

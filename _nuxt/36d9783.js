@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[192],{1122:function(e,t,n){"use strict";n.r(t);var o={mounted:function(){this.$router.push("/kepala_apotek/dashboard")}},r=n(10),component=Object(r.a)(o,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,"6c7b9f2e",null);t.default=component.exports}}]);

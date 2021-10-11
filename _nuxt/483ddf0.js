@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[125],{1196:function(t,n,e){"use strict";e.r(n);var l={layout:"mail"},c=e(10),component=Object(c.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("nuxt-child")}),[],!1,null,"5265fba4",null);n.default=component.exports}}]);

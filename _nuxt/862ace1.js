@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[123],{1093:function(t,e,n){"use strict";n.r(e);var o={mounted:function(){this.$router.push("/dokter/dashboard")}},r=n(10),component=Object(r.a)(o,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,"6a91e60a",null);e.default=component.exports}}]);

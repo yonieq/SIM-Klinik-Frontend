@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{1089:function(t,n,e){"use strict";e.r(n);var r={mounted:function(){this.$router.push("/administrasi/dashboard")}},o=e(10),component=Object(o.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,"3ff81706",null);n.default=component.exports}}]);

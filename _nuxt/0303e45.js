@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[174],{1121:function(t,e,n){"use strict";n.r(e);var r={mounted:function(){this.$router.push("/kasir/dashboard")}},o=n(10),component=Object(o.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("div")}),[],!1,null,"3a69c56e",null);e.default=component.exports}}]);
